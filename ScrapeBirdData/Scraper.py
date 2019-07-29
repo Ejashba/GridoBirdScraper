@@ -49,7 +49,7 @@ class Scraper:
             if elem['id'] not in self.seen:
                 loc.total += 1
                 self.seen.add(elem['id'])
-
+                
         # ------WRITES FILES--------
                 filename = f'Bird {elem["id"]}.txt'
                 foldername = 'BirdIDData'
