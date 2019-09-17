@@ -1,9 +1,11 @@
 class Location:
-    def __init__(self, lat, long, name=''):
+    def __init__(self, lat, long, name, city, scooter_names):
         self.lat = lat
         self.long = long
         self.name = name
-        self.total = 0
+        self.city = city
+        self.scooter_counts = {s: 0 for s in scooter_names}
 
-    def resetTotal(self):
-        self.total = 0
+    def resetCounts(self):
+        for s in self.scooter_counts:
+            self.scooter_counts[s] = 0
