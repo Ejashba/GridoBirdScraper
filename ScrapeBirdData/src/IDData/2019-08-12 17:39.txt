@@ -1,0 +1,6 @@
+Lime, ATL, LMS, high, 18829, 2019-08-13T00:37:32.000Z, dn5bq0rqy6t3
+Lime, ATL, TVF, medium, 11828, 2019-08-13T00:37:18.000Z, dn5bp97vexhj
+Lime, ATL, WMP, high, 21726, 2019-08-13T00:38:00.000Z, dn5bp96wr547
+Lime, ATL, EXB, high, 24140, 2019-08-13T00:38:33.000Z, dn5bp9s72hm7
+Lime, ATL, 832, high, 24140, 2019-08-13T00:37:11.000Z, dn5bp9edcmhf
+Lime, ATL, CFA, high, 21484, 2019-08-13T00:36:34.000Z, dn5bp9ee18km

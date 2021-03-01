@@ -1,0 +1,15 @@
+Lime, ATL, ARN, high, 20036, 2019-08-13T00:27:36.000Z, dnh01rwfm4bc
+Lime, ATL, GWJ, high, 14966, 2019-08-13T00:27:41.000Z, dnh01jzrzsqq
+Lime, ATL, ZEF, high, 18105, 2019-08-13T00:25:12.000Z, dnh01w8q1rht
+Lime, ATL, ARZ, high, 17622, 2019-08-13T00:27:50.000Z, dnh01x2vb08h
+Lime, ATL, 449, high, 15208, 2019-08-13T00:25:19.000Z, dnh01nfvy6m0
+Lime, ATL, 557, medium, 8931, 2019-08-13T00:26:34.000Z, dnh01x9szebu
+Lime, ATL, QUB, medium, 8690, 2019-08-13T00:25:17.000Z, dnh01xd58664
+Lime, ATL, CAD, high, 18587, 2019-08-13T00:25:21.000Z, dnh01x6rsh3z
+Lime, ATL, NAC, high, 20519, 2019-08-13T00:25:50.000Z, dnh031pnbbq6
+Lime, ATL, RGG, high, 14725, 2019-08-13T00:25:23.000Z, dnh01wwn4x65
+Lime, ATL, 251, medium, 11345, 2019-08-13T00:26:20.000Z, dnh031hq26q7
+Lime, ATL, DSJ, high, 14242, 2019-08-13T00:25:25.000Z, dnh01xwx8h7q
+Lime, ATL, 717, medium, 10138, 2019-08-13T00:26:42.000Z, dnh0313tew77
+Lime, ATL, RKK, high, 12070, 2019-08-13T00:27:12.000Z, djgzjxpf0xy9
+Lime, ATL, 246, medium, 9414, 2019-08-12T22:24:36.000Z, djgznpcw92v6

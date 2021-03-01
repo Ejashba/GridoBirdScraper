@@ -1,0 +1,14 @@
+latitude, longitude, name
+19.068745, -98.303857, Puebla
+19.049211, -98.303653, San_Miguelito
+19.074035, -98.308545, Calle_Atlixco
+19.061610, -98.316919, Calle_11_Sur
+19.053249, -98.291255, Calle_12_Ote_622
+19.078966, -98.306017, Tlatlauquitepec
+19.036698, -98.312370, Miliano_Zapata
+19.427010, -99.167691, Angel_of_Independence
+19.433375, -99.194508, Polanco
+19.413226, -99.174711, Condesa
+19.424152, -99.147673, Roma
+19.410986, -99.165440, Hippo
+19.438177, -99.161648, San_Rafael

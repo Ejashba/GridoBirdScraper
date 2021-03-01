@@ -1,0 +1,9 @@
+Lime, ATL, 518, high, 16415, 2019-08-13T00:55:32.000Z, dnh002cgwy12
+Lime, ATL, HTD, high, 21484, 2019-08-13T00:56:40.000Z, dnh005ydjbg9
+Lime, ATL, WSL, high, 19794, 2019-08-13T00:55:37.000Z, dnh005y9yrps
+Lime, ATL, 196, high, 22933, 2019-08-13T00:58:07.000Z, dnh005ye98qf
+Lime, ATL, WGB, high, 13518, 2019-08-10T22:23:08.000Z, dnh00hn74ede
+Lime, ATL, AYM, high, 18829, 2019-08-13T00:58:14.000Z, dn5bj99mmzj4
+Lime, ATL, 035, low, 4828, 2019-08-11T20:10:57.000Z, djunftbwzr6c
+Lime, ATL, 747, high, 22691, 2019-08-12T22:26:08.000Z, dnh00hnwvr9d
+Lime, ATL, HWU, high, 22450, 2019-08-13T00:58:00.000Z, dn5bp97j14kq
